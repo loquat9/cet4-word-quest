@@ -1,0 +1,15 @@
+{
+  "version": "2026.10-sample-300",
+  "isSample": true,
+  "totalWords": 300,
+  "source": "genkin-he/english-vocabulary CET-4 list (https://github.com/genkin-he/english-vocabulary) + dictionaryapi.dev cross-check",
+  "updatedAt": "2026-10-26",
+  "chapters": {
+    "1": 50,
+    "2": 50,
+    "3": 50,
+    "4": 50,
+    "5": 50,
+    "6": 50
+  }
+}
