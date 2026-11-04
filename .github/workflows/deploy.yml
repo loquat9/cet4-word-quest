@@ -36,7 +36,6 @@ jobs:
 
       - name: Build
         run: npm run build
-      - run: npm run postbuild
         env:
           # 用户/组织主页仓库请把仓库变量 VITE_BASE 设为 /
           # 项目页默认使用 /<repository-name>/
